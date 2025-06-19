@@ -1,0 +1,6 @@
+statsmodel
+streamlit
+plotly
+pandas
+matplotlib
+seaborn
